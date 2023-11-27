@@ -2,3 +2,4 @@ data/
 data.zip
 .vscode/
 *.csv
+.DS_Store
