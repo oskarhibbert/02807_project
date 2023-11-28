@@ -1,8 +1,1 @@
-data/
-data.zip
-.vscode/
-*.csv
-.DS_Store
-.ipynb_checkpoints/data_prep-checkpoint.ipynb
-.ipynb_checkpoints/network-checkpoint.ipynb
-__pycache__
+
